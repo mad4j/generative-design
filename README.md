@@ -1,2 +1,5 @@
-# processing-examples
-funny examples of processing usage
+# Processing Examples
+Funny examples of Processing capabilities
+
+## Truchet
+!(Truchet)[truchet/truchet.png)
