@@ -43,6 +43,8 @@ void draw() {
       ellipse(x*size, y*size, size, size);
     }
   }
+  
+  save("truchet.png");
 }
 
 
