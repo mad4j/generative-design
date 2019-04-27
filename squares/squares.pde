@@ -1,4 +1,10 @@
 
+// Squares
+// daniele.olmisani@gmail.com
+
+// see LINCENSE file
+
+
 final color PAPER = color(0);
 final color INK = color(255);
 
