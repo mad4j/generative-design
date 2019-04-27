@@ -6,7 +6,7 @@ final int COUNT = 15;
 
 
 void setup() {
-  size(512, 512);
+  size(1024, 1024);
   noLoop();
 }
 
